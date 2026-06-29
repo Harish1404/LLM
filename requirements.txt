@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+
+litellm
+tenacity
+
+python-dotenv
+
