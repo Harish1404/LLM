@@ -19,5 +19,3 @@ async def chatbot(model_name: str, user_prompt: str):
         status_code=200,
     )
 
-
-
